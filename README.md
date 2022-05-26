@@ -87,7 +87,7 @@ the quartile stats for the number of tweets in each extracted timeline.
 
 It is noted that many of the Twitter users actively delete their past tweets either manually or automatically using software.
 
-**The anonymized tweet dataset is published on [Kaggle](Kaggle)**
+**The anonymized tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_tweets.tar.xz)**
 
 ### Disorder Music Dataset
 
@@ -108,7 +108,7 @@ Out of the 32191368 tweets, I was able to retrieve 396842 songs with their title
 lyrics for 311568 songs through the Genius API. I manually checked some of the left out songs and realized that the Genius API is not complete
 enough to cover everything. I tried other lyrics databases but they were drastically smaller and couldn't cover those left out.
 
-**The anonymized music dataset is published on [Kaggle](Kaggle)**
+**The anonymized music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_musics.tar.xz)**
 
 ---
 
@@ -233,13 +233,13 @@ the quartile stats for the number of tweets in each extracted timeline. A total 
 
 **The very first observation is that disorder users are twice as active on Twitter as control users. In other words, they tweet with a rate twice of what control users tweet.**
 
-**The anonymized tweet dataset is published on [Kaggle](Kaggle)**
+**The anonymized tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_tweets.tar.xz)**
 
 ### Control Music Dataset
 
 Similar to the disorder dataset, I used the top three music streaming platform links to extract songs control users on Twitter listen to. I processed all 26520106 tweets and extracted 303663 songs with title and artist name. Out of 303663 songs, I was able to obtain lyrics for 241883 lyrics from the Genius database.
 
-**The anonymized music dataset is published on [Kaggle](Kaggle)**
+**The anonymized music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_musics.tar.xz)**
 
 ---
 
