@@ -19,19 +19,19 @@ who have never tweeted anything about mental disorders.
 
 ## Disorder Tweet Dataset
 
-**The anonymized tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_tweets.tar.xz)**
+**The anonymized disorder tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_tweets.tar.xz)**
 
 
 ## Disorder Music Dataset
 
-**The anonymized music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_musics.tar.xz)**
+**The anonymized disorder music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_disorder_musics.tar.xz)**
 
 
 ## Control Tweet Dataset
 
-**The anonymized tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_tweets.tar.xz)**
+**The anonymized control tweet dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_tweets.tar.xz)**
 
 
 ## Control Music Dataset
 
-**The anonymized music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_musics.tar.xz)**
+**The anonymized control music dataset is published on [Kaggle](https://www.kaggle.com/datasets/rrmartin/twitter-mental-disorder-tweets-and-musics?select=anon_control_musics.tar.xz)**
